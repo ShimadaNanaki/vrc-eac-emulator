@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0liteyear/vrc-eac-emulator/blob/master/LICENSE)
 
-Reported and patched on 2024/05/23!
+Reported and patched on 2025/05/23!
 
 Redirect all EAC communications required on Windows to Linux
 

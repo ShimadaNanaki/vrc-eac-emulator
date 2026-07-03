@@ -1,3 +1,7 @@
+# There is an official updated version available
+This repository will not be updated; future updates will be carried out in the official fork.
+[https://github.com/pastedo/vrc-eac-emulator/](https://github.com/pastedo/vrc-eac-emulator/tree/master)
+
 # EasyAntiCheat Emulator on VRChat
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0liteyear/vrc-eac-emulator/blob/master/LICENSE)

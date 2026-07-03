@@ -1,6 +1,7 @@
 # There is an official updated version available
 This repository will not be updated; future updates will be carried out in the official fork.
-[https://github.com/pastedo/vrc-eac-emulator/](https://github.com/pastedo/vrc-eac-emulator/tree/master)
+
+[https://github.com/VRC-Emulator/vrc-eac-emulator](https://github.com/VRC-Emulator/vrc-eac-emulator)
 
 # EasyAntiCheat Emulator on VRChat
 
